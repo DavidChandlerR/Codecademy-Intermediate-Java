@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Learn Java Projects
+# <p style="text-align: center;">Intermediate Java Projects
 
 <p style="text-align: center;">Hello and welcome to my Java Intermediate coding projects provided by Codecademy Pro. See links to projects below!
 
@@ -15,7 +15,7 @@ IDE: [`IntelliJ IDEA Community Edition`](https://www.jetbrains.com/idea/)
 <!-- links to social media accounts -->
 
 ## Course Link
----
+
 https://www.codecademy.com/learn/learn-intermediate-java
 
 ## 1. Hello World
