@@ -18,25 +18,23 @@ IDE: [`IntelliJ IDEA Community Edition`](https://www.jetbrains.com/idea/)
 
 https://www.codecademy.com/learn/learn-intermediate-java
 
-## 1. Hello World
 
-**Hello World:**
-```
-$ javac HelloWorld.java
-$ java HelloWorld
-```
+## 1. Serialization ##
 
-**Planting A Tree:**
-- [ ] [`Tree.java`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/1-Planting-a-Tree/Planting%20A%20Tree/src) 
-## 2. Variables ##
+**Customizable Serialization Example**
+- [ ] [`Cars`](https://github.com/DavidChandlerR/Codecademy-Intermediate-Java/blob/master/Serialization/src/Car.java) 
 
-**Mad Libs:**
-- [ ] [`Mad Libs`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/2-Mad-Libs/Mad%20Libs/src)
+**Medieval Game with Save and Load Funcionality:**
+- [ ] [`Medieval Game`](https://github.com/DavidChandlerR/Codecademy-Intermediate-Java/blob/6161b9b80b76d8dcf7369b7146f3d31b2ffe0e8c/MedievalGameProject/src/MedievalGame.java)
+- [ ] [`Player`](https://github.com/DavidChandlerR/Codecademy-Intermediate-Java/blob/6161b9b80b76d8dcf7369b7146f3d31b2ffe0e8c/MedievalGameProject/src/Player.java)
+- [ ] [`Art`](https://github.com/DavidChandlerR/Codecademy-Intermediate-Java/blob/6161b9b80b76d8dcf7369b7146f3d31b2ffe0e8c/MedievalGameProject/src/Art.java)
+- [ ] [`Armour`](https://github.com/DavidChandlerR/Codecademy-Intermediate-Java/blob/6161b9b80b76d8dcf7369b7146f3d31b2ffe0e8c/MedievalGameProject/src/Armour.java)
+- [ ] [`Shirt`](https://github.com/DavidChandlerR/Codecademy-Intermediate-Java/blob/6161b9b80b76d8dcf7369b7146f3d31b2ffe0e8c/MedievalGameProject/src/Shirt.java)
+- [ ] [`Trousers`](https://github.com/DavidChandlerR/Codecademy-Intermediate-Java/blob/6161b9b80b76d8dcf7369b7146f3d31b2ffe0e8c/MedievalGameProject/src/Trouser.java)
+- [ ] [`Weapon`](https://github.com/DavidChandlerR/Codecademy-Intermediate-Java/blob/6161b9b80b76d8dcf7369b7146f3d31b2ffe0e8c/MedievalGameProject/src/Weapon.java)
+- [ ] [`Shoe`](https://github.com/DavidChandlerR/Codecademy-Intermediate-Java/blob/6161b9b80b76d8dcf7369b7146f3d31b2ffe0e8c/MedievalGameProject/src/Shoe.java)
 
-**Math Magic:**
-- [ ] [`Magic.java`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/2-Math-Magic/src)
-
-## 3. Object-Oriented Java
+## 2. Generics and Their Applications
 
 **A Basic Calculator:**
 
